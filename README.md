@@ -1,7 +1,7 @@
-# Stock Market Analysis and Predictive Models
+> # Stock Market Analysis and Predictive Models
 
-![Stock Market](stock-market-image.jpg)
-*Image Source: [Unsplash](https://unsplash.com/photos/sample-image)*
+![Stock Market](pic01.jpg)
+*Image Source: [Unsplash](https://unsplash.com/photos/wn57cSQ7VzI)*
 
 ## Introduction
 
